@@ -3,7 +3,8 @@
 - 👀 I’m interested in IoT, data analysis and all the things that are connected with these subjects
 - 🌱 I’m currently learning Cloud, Datalake, Data Warehouse, SQL, NoSQL
 
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/leohfigueiredo/leohfigueiredo/blob/main/pxfuel.jpg))
+![Data Science and AI Engineer | Electronic Engineer | Sales Engineer | Quality Engineer | IoT]
+([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png]
 
 
 

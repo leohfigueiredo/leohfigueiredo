@@ -3,7 +3,7 @@
 - 👀 I’m interested in IoT, data analysis and all the things that are connected with these subjects
 - 🌱 I’m currently learning Cloud, Datalake, Data Warehouse, SQL, NoSQL
 
-![Data Science and AI Engineer | Electronic Engineer | Sales Engineer | Quality Engineer | IoT](https://github.com/leohfigueiredo/leohfigueiredo/blob/main/pxfuel.jpg)
+![Data Science and AI Engineer | Electronic Engineer | Sales Engineer | Quality Engineer | IoT](https://github.com/leohfigueiredo/leohfigueiredo/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 
 
 - 💞️ I’m looking to collaborate on companies where I can participate with my hardwork and where I can use my experience in other subjects (electronics, sales, telecom, etc.)

@@ -15,7 +15,7 @@
 
 
 - 📫 How to reach me - https://www.linkedin.com/in/leonardo-henrique-d-20595426/?locale=en_US
-
+  Portfolio: https://www.datascienceportfol.io/leonardofigueiredo
 <!---
 leohfigueiredo/leohfigueiredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

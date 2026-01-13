@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leohfigueiredo
 - 👋I'm an Electronic Engineer and Data Engineer.
 - 👀 I’m interested in IoT, AI, data analysis and all the things that are connected with these subjects
-- 🌱 I’m currently learning Cloud, Datalake, Data Warehouse, Tensorflow, SQL, NoSQL
+- 🌱 I’m currently learning Cloud, Datalake, Data Warehouse, Tensorflow, AI, CNN, SQL, NoSQL
 
 ![Data Science and AI Engineer | Electronic Engineer | Sales Engineer | Quality Engineer | IoT](https://github.com/leohfigueiredo/leohfigueiredo/blob/main/Banner.png)
 

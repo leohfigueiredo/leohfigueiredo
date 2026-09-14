@@ -1,0 +1,44 @@
+username: "leohfigueiredo"
+
+profile:
+  name: "Leonardo Henrique de Figueiredo"
+  tagline: "Data Analyst & AI Systems Engineer 🚀"
+  philosophy: "Engineering high-performance local AI systems and data-driven risk analytics to bridge machine intelligence with real-world decision making."
+
+galaxy_arms:
+  - name: "AI & Local LLMOps"
+    color: "synapse_cyan"
+    items: ["Python", "llama.cpp", "GGUF", "RAG", "Declarative Attention", "MCP"]
+  
+  - name: "Data Analytics & BI"
+    color: "dendrite_violet"
+    items: ["SQL", "PostgreSQL", "Tableau", "Pandas", "Scikit-Learn", "ETL Pipelines"]
+  
+  - name: "Systems & Risk Analytics"
+    color: "axon_amber"
+    items: ["Linux", "Git", "Docker", "Exposure Mgmt", "Cat Risk (AIR/RMS)", "IoT"]
+
+projects:
+  - repo: "apex-harness"
+    arm: 0
+    description: "Hardware-aware autonomous agentic harness, hybrid RAG & benchmark suite."
+  
+  - repo: "read-loud-app"
+    arm: 0
+    description: "E-book reader with AI assistance (PDF/EPUB with TTS and summaries)."
+  
+  - repo: "FIEP-Modelos-de-Aprendizado-e-Arquiteturas-Cloud"
+    arm: 1
+    description: "Pós-Graduação em Engenharia de Dados & IA (SENAI / FIEP)."
+  
+  - repo: "Modelos_preditivos_sklearn"
+    arm: 1
+    description: "Predictive Machine Learning models with Scikit-Learn."
+  
+  - repo: "grape_disease"
+    arm: 0
+    description: "Grape disease classification using Computer Vision & Deep Learning."
+  
+  - repo: "acelerometer_rp4"
+    arm: 2
+    description: "Sense HAT Accelerometer Monitor - AWS Cloud IoT."
